@@ -6,7 +6,7 @@ FOOTPRINTING &amp; NETWORK SCANNING PHASES
 |---|---|
 | **Pentester Name (Cybersecurity Professional)** | Victor Mosha |
 | **Program/Batch** | B083-Networkwalks |
-| **Date** | 17 September 2026 |
+| **Date** | 18 September 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
@@ -18,7 +18,7 @@ FOOTPRINTING &amp; NETWORK SCANNING PHASES
 
    # 1.LIABILITY DISCLAIMER 
 
-  I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The authors and Networkwalks are not responsible for what you do with this knowledge. Everey action that one takes after learning from this document is ones own responsibility. Misuse can lead to criminal charges, heavy fines, loss of job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
+  I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The authors and Networkwalks are not responsible for what you do with this knowledge. Every action that one takes after learning from this document is ones own responsibility. Misuse can lead to criminal charges, heavy fines, loss of job and a permanent record. In most countries unauthorized access is a crime even when nothing is damaged.
 
 
 
@@ -34,14 +34,14 @@ This report covers footprinting the networkwalks.com domain using multiple Kali 
 | **WHOIS** | Find domain registration details (owner,dates,name servers). |
 | **whatweb** | Fingerprint web technologies (server,CMS,plugins,IP).|
 | **nslookup** | Resolve the domain name to its IP address using DNS. |
-| **curl -I** | Read the HTTP respone headers of the website. |
+| **curl -I** | Read the HTTP response headers of the website. |
 | **wafw00f** | Detect whether a Web Application Firewall protects the site |
-| **dnsrecon** |  Enumarate all DNS records (NS,MX,SPF,TXT;SRV). |
+| **dnsrecon** |  Enumerate all DNS records (NS,MX,SPF,TXT;SRV). |
 | **Zenmap (Nmap GUI)** |  Scan the local subnet to find live hosts, IPs and MAC addresses. |
 | **Windows CMD**| Local IP and MAC address identification.|
       
       
-  # 4. ACTIVITEIS PERFORMED
+  # 4. ACTIVITIES PERFORMED
 
    4.1 Footprinting & Reconnaissance 
 
@@ -152,7 +152,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 👤  **Author**
 -   **VICTOR MOSHA**  
 -   Cybersecurity Professional 
--   LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+-   LinkedIn: [https://lnkd.in/p/g9_vRXAs/](https://lnkd.in/p/g9_vRXAs/)
 
 
     
